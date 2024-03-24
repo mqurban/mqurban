@@ -22,9 +22,6 @@
 
 - 📄 Know about my experiences [Click me](https://docs.google.com/document/d/1dS9eTbIABqPbQJvXPHkXv5W2WuZe97fkRl7iR4T6mgo/edit)
 
-
-- ⚡ Fun fact **I think I am Funny**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mr-qurban" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mr-qurban" height="30" width="40" /></a>
