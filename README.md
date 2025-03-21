@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Qurban</h1>
 <h3 align="center">🚀 Full-Stack Developer | WordPress Expert | Exploring React & Headless CMS</h3>
 
-<img align="right" alt="Coding" width="400" src="https://giffiles.alphacoders.com/822/8223.gif">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mqurban&label=Profile%20views&color=0e75b6&style=flat" alt="mqurban" /> </p>
 
 🔹 **About Me:**  
@@ -43,7 +41,7 @@ I am a **WordPress & Full-Stack Web Developer** with **4+ years of experience** 
 
 ### **📫 Contact Me:**  
 📧 **Email:** mianqurban525@gmail.com  
-📞 **Phone:** +92347-1012910  
+📞 **Phone:** [+92347-1012910](https://wa.me/923471012910)    
 
 ---
 
