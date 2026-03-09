@@ -70,8 +70,4 @@ I am a **WordPress & Full-Stack Web Developer** with **4+ years of experience** 
 ---
 
 ### **📊 GitHub Stats:**  
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mqurban&show_icons=true&locale=en&layout=compact" alt="mqurban" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mqurban&show_icons=true&locale=en" alt="mqurban" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mqurban&" alt="mqurban" /></p>
