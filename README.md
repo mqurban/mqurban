@@ -6,8 +6,7 @@
 🔹 **About Me:**  
 I am a **WordPress & Full-Stack Web Developer** with **4+ years of experience** in crafting custom WordPress themes, plugins, and web applications. I specialize in **business registration systems, booking platforms, eCommerce solutions, and API integrations**. My expertise also extends to **React, Headless CMS, and algorithmic trading bots**.
 
-🌐 I also run a collection of free tools:  
-👉 https://toolsup.net
+🌐 I also run a collection of free tools: 👉 https://toolsup.net
 ---
 
 ### **💡 What I Do:**
